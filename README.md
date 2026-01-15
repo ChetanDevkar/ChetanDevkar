@@ -80,8 +80,8 @@ Database Optimization | Cloud Infrastructure | AI-driven Solutions | System Desi
 
 - **Email:** chetandevkar.engg@gmail.com  
 - **Phone:** +91 8788025768  
-- [![LinkedIn](https://www.linkedin.com/in/chetan-devkar-3a80bb287/)]  
-- [![GitHub](https://github.com/ChetanDevkar?tab=overview&from=2025-12-01&to=2025-12-31)]
+- [[LinkedIn](https://www.linkedin.com/in/chetan-devkar-3a80bb287/)]  
+- [[GitHub](https://github.com/ChetanDevkar?tab=overview&from=2025-12-01&to=2025-12-31)]
 ---
 
 ⭐ *Thank you for visiting my GitHub! Let's build something amazing together.*
