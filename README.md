@@ -16,7 +16,7 @@ I'm a motivated and results-driven **Software Engineering** with hands-on experi
 - Cloud-based deployments  
 
 **Tech Stack:**  
-`Java` | `Html & CSS` | `React` | `Node.js` | `JavaScript` | `MySql` | `Spring`  
+`Java` | `Html & CSS` | `React` | `Node.js` | `JavaScript` | `MySql` | `Spring` |`Spring ` 
 **Specialties:**  
 Database Optimization | Cloud Infrastructure | AI-driven Solutions | System Design | Data Structure
 
