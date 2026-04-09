@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 Profile Summary
-
+ 
 I'm a motivated and results-driven **Software Engineering** with hands-on experience in:
 
 - Scalable real-time web applications   
