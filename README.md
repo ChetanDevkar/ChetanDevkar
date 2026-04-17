@@ -12,7 +12,7 @@ I'm a motivated and results-driven **Software Engineering** with hands-on experi
 
 - Scalable real-time web applications    
 - Full-Stack Development
-- Backend API development   
+- Backend API development    
 - Cloud-based deployments  
 
 **Tech Stack:**  
